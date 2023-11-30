@@ -1,0 +1,1 @@
+document.getElementById('posts').innerText = "Hello world"
